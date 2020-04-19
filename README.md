@@ -1,2 +1,0 @@
-# app
-NxCenter App
